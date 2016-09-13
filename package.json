@@ -1,10 +1,10 @@
 {
   "name": "angular-jk-rating-stars",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Amazing rating stars directive for angular material",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/juank11memphis/angular-jk-rating-stars.git"
+		"url": "git://github.com/LiyinZ/angular-jk-rating-stars.git"
 	},
   "scripts": {
     "prepublish": "gulp build",
